@@ -1,0 +1,14 @@
+{
+  "name": "canvas-playground",
+  "version": "1.0.0",
+  "description": "Playground for simple canvas games",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "npx tsc --project tsconfig.json"
+  },
+  "author": "chakajg",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
